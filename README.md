@@ -2,30 +2,30 @@
 ![Rice showcase](./demo/demo01.png)
 
 ## Keybinds
-SUPER + C - close window
-SUPER + Q - log out
-SUPER + E - open file manager
-SUPER + V - toggle floating
-SUPER + R - open app launcher
-SUPER + P - toggle pseudo
-SUPER + J - toggle split
-SUPER + F - toggle fullscreen
-SUPER + SHIFT + S - screenshot
-SUPER + [arrow] - switching active windows
+SUPER + C - close window<br>
+SUPER + Q - log out<br>
+SUPER + E - open file manager<br>
+SUPER + V - toggle floating<br>
+SUPER + R - open app launcher<br>
+SUPER + P - toggle pseudo<br>
+SUPER + J - toggle split<br>
+SUPER + F - toggle fullscreen<br>
+SUPER + SHIFT + S - screenshot<br>
+SUPER + [arrow] - switching active windows<br>
 
 ### Managing workspaces
-SUPER + [number] - switch to workspace [number]
-SUPER + SHIFT + [number] - move window to workspace [number]
+SUPER + [number] - switch to workspace [number]<br>
+SUPER + SHIFT + [number] - move window to workspace [number]<br>
 
 
 ## Default applications
-Web browser: firefox
-Terminal: kitty
-File manager: nautilus
-App launcher: rofi
-Bar: waybar
-Screenshots: hyprshot
-Wallpapers: hyprsome
+Web browser: firefox<br>
+Terminal: kitty<br>
+File manager: nautilus<br>
+App launcher: rofi<br>
+Bar: waybar<br>
+Screenshots: hyprshot<br>
+Wallpapers: hyprsome<br>
 
 ```
 git clone [this URL] ~/.dotfiles
