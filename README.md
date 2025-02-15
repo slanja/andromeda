@@ -27,8 +27,10 @@ Bar: waybar<br>
 Screenshots: hyprshot<br>
 Wallpapers: hyprsome<br>
 
+
+## Installation
 ```
-git clone [this URL] ~/.dotfiles
+git clone https://github.com/slanja/andromeda.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
