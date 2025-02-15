@@ -1,4 +1,4 @@
-# lumi@thrymr
+# andromeda 🌌✨
 ![Rice showcase](./demo/demo01.png)
 
 ## Keybinds
