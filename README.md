@@ -2,20 +2,20 @@
 ![Rice showcase](./demo/demo01.png)
 
 ## Keybinds
-SUPER + C - close window<br>
-SUPER + Q - log out<br>
-SUPER + E - open file manager<br>
-SUPER + V - toggle floating<br>
-SUPER + R - open app launcher<br>
-SUPER + P - toggle pseudo<br>
-SUPER + J - toggle split<br>
-SUPER + F - toggle fullscreen<br>
-SUPER + SHIFT + S - screenshot<br>
-SUPER + [arrow] - switching active windows<br>
+<kbd>SUPER</kbd>  <kbd>C</kbd> - close window<br>
+<kbd>SUPER</kbd>  <kbd>Q</kbd> - log out<br>
+<kbd>SUPER</kbd>  <kbd>E</kbd> - open file manager<br>
+<kbd>SUPER</kbd>  <kbd>V</kbd> - toggle floating<br>
+<kbd>SUPER</kbd>  <kbd>R</kbd> - open app launcher<br>
+<kbd>SUPER</kbd>  <kbd>P</kbd> - toggle pseudo<br>
+<kbd>SUPER</kbd>  <kbd>J</kbd> - toggle split<br>
+<kbd>SUPER</kbd>  <kbd>F</kbd> - toggle fullscreen<br>
+<kbd>SUPER</kbd>  <kbd>SHIFT</kbd>  <kbd>S</kbd> - screenshot<br>
+<kbd>SUPER</kbd>  <kbd>[arrow]</kbd> - switching active windows<br>
 
 ### Managing workspaces
-SUPER + [number] - switch to workspace [number]<br>
-SUPER + SHIFT + [number] - move window to workspace [number]<br>
+<kbd>SUPER</kbd>  <kbd>[number]</kbd> - switch to workspace [number]<br>
+<kbd>SUPER</kbd>  <kbd>SHIFT</kbd>  <kbd>[number]</kbd> - move window to workspace [number]<br>
 
 
 ## Default applications
