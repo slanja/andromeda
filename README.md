@@ -29,20 +29,44 @@ Wallpapers: hyprsome<br>
 
 
 ## Installation
+1. Install the necessary packages
+
+Installation of pacman packages
 ```
-git clone https://github.com/slanja/andromeda.git ~/.dotfiles
-cd ~/.dotfiles
-./install.sh
+sudo pacman -S firefox stow spotify-launcher kitty nautilus discord asciiquarium rofi waybar git
 ```
 
-
+Installation of paru
 ```
-sudo pacman -S firefox spotify-launcher kitty nautilus discord asciiquarium rofi waybar git
+sudo pacman -S --needed base-devel git
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+cd ..
+rm -rf paru
 ```
 
+Installation of paru packages
 ```
 paru -S cava betterdiscord-installer 
 ```
+
+2. Clone the repository
+```
+git clone https://github.com/slanja/andromeda.git ~/.dotfiles
+cd ~/.dotfiles
+```
+
+3. Initialize git
+```
+git init
+```
+
+4. Create symlinks using stow to manage .dotfiles
+```
+stow .
+```
+
 
 ### Cursor
 https://github.com/phisch/phinger-cursors
