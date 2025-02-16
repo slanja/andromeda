@@ -5,6 +5,11 @@
   bg3: #FFD1DC;
 }
 
+window {
+  location: center;
+  y-offset: 0px;
+}
+
 listview {
   columns: 1;
 }
